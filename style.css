@@ -1,0 +1,18 @@
+html{
+    background: rgb(153, 62, 111);
+    width: 4px;
+}
+#button {
+    background:rgb(98, 16, 82);
+    color: white;
+  }
+  body{
+      background: white;
+      text-align: center;
+      padding: 50px 0;
+      width: 500px;
+      margin-left: 480px;
+      margin-right: 230px;
+      border-radius: 25px;
+}
+
